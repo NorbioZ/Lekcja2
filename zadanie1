@@ -1,0 +1,20 @@
+package com.company;
+
+public class Main {
+
+
+    public static void main(String[] args)
+    {
+
+        int nor;
+
+        nor = 9;
+
+        while (nor++ < 20){
+            System.out.println(nor);
+            //Norbert Kulik
+        }
+
+    }
+
+}
