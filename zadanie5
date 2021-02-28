@@ -1,0 +1,18 @@
+package com.company;
+
+public class Main {
+
+
+    public static void main(String[] args)
+    {
+
+        for (int nor = 1; nor <= 100; nor++) {
+
+            if (nor % 8 == 0) {
+
+                System.out.println(nor);
+            //Norbert Kulik
+            }
+        }
+    }
+}
