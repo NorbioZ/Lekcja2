@@ -1,0 +1,17 @@
+package com.company;
+
+public class Main {
+
+
+    public static void main(String[] args)
+    {
+
+        for (int nor = -10; nor <=40; nor++) {
+
+            if(nor%2==1) {
+                System.out.println(nor);
+                //Norbert Kulik
+            }
+        }
+    }
+}
